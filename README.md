@@ -1,2 +1,2 @@
 
-`scrapy runspider main/spiders/wp_spider.py`
+`scrapy runspider main/spiders/dcafe_spider.py -o data.xml`
